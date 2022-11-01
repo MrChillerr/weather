@@ -1,0 +1,10 @@
+#weatherResults {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 24px;
+    background-image: url("https://images.pexels.com/photos/6611628/pexels-photo-6611628.jpeg?cs=srgb&dl=pexels-jack-krzysik-6611628.jpg&fm=jpg");
+    padding: 50px;
+    text-align: center;
+    margin: 60px;
+    border-radius: 20px;
+}
